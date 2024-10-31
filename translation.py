@@ -10,7 +10,7 @@ class Translation(object):
 
 ɢɪᴠᴇ ᴍᴇ ᴀɴʏ ʟɪɴᴋ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
 
-ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/EH_UnknownPerson">@EH_UnknownPerson</a></b>
 """
 
     TECH_VJ_HELP_TEXT = """
@@ -101,8 +101,8 @@ class Translation(object):
     TECH_VJ_DOWNLOAD_START = "<b>📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...</b>"
     TECH_VJ_UPLOAD_START = "<b>📤 ᴜᴘʟᴏᴀᴅɪɴɢ...</b>"
     TECH_VJ_RCHD_TG_API_LIMIT = "<b>ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nᴅᴇᴛᴇᴄᴛᴇᴅ ғɪʟᴇ ꜱɪᴢᴇ: {}\nꜱᴏʀʀʏ. ʙᴜᴛ, ɪ ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ғɪʟᴇꜱ ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ 𝟸GB ᴅᴜᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ API ʟɪᴍɪᴛᴀᴛɪᴏɴꜱ.</b>"
-    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>ᴛʜᴀɴᴋꜱ ғᴏʀ ᴜꜱɪɴɢ ᴍᴇ\n\nJᴏɪɴ : @VJ_BOTZ</b>"
-    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\n\n@VJ_BOTZ</b>"
+    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>ᴛʜᴀɴᴋꜱ ғᴏʀ ᴜꜱɪɴɢ ᴍᴇ\n\nJᴏɪɴ : @EH_UnknownPerson</b>"
+    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\n\n@EH_UnknownPerson</b>"
     TECH_VJ_SAVED_CUSTOM_THUMB_NAIL = "<b>ᴄᴜꜱᴛᴏᴍ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ. Tʜɪꜱ ɪᴍᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴜꜱᴇᴅ ɪɴ ᴛʜᴇ ᴠɪᴅᴇᴏ / ғɪʟᴇ.</b>"
     TECH_VJ_DEL_ETED_CUSTOM_THUMB_NAIL = "<b>✅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ ꜱᴜᴄᴄᴇꜱғᴜʟʟʏ.</b>"
     TECH_VJ_CUSTOM_CAPTION_UL_FILE = "<b>{}</b>"
