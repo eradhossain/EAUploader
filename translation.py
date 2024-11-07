@@ -58,7 +58,7 @@ class Translation(object):
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-            InlineKeyboardButton('🇧🇩 MY ID 💖', url='https://t.me/EH_UnknownPerson')
+            InlineKeyboardButton('🇧🇩 ᴅᴇᴠᴇʟᴏᴘᴇʀ 💖', url='https://t.me/EH_UnknownPerson')
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
