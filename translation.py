@@ -38,7 +38,7 @@ class Translation(object):
 """
 
     TECH_VJ_ABOUT_TEXT = """
-<b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
+<b>♻️ ᴍʏ ɴᴀᴍᴇ : EA UPLOADER
 
 🌀 Channel : <a href="https://t.me/EaMoviesOfficial">EA MOVIES</a>
 
