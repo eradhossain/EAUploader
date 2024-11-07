@@ -40,7 +40,7 @@ class Translation(object):
     TECH_VJ_ABOUT_TEXT = """
 <b>♻️ ᴍʏ ɴᴀᴍᴇ : EA UPLOADER
 
-🌀 Channel : <a href="https://t.me/EaMoviesOfficial">EA MOVIES</a>
+🌀 Channel : <a href="https://t.me/EaMoviesOfficial">Ea Movies ➤ Official</a>
 
 🌺 KOYEB : <a href="https://koyeb.com/">KOYEB</a>
 
