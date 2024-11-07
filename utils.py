@@ -113,7 +113,7 @@ async def check_verification(bot, userid):
     if not await tech_vj.is_user_exist(user.id):
         await tech_vj.add_user(user.id, user.first_name)
         await bot.send_message(Config.TECH_VJ_LOG_CHANNEL, LOG_TEXT_P.format(user.id, user.mention))
-    tz = pytz.timezone('Asia/Kolkata')
+    tz = pytz.timezone('Asia/Dhaka')
     today = date.today()
     if user.id in VERIFIED.keys():
         EXP = VERIFIED[user.id]
